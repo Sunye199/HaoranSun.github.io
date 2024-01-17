@@ -3,7 +3,7 @@
 title: 孙浩然
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Haoran Sun
 
 # Full name (for SEO)
 first_name: Sun
@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Artificial Intelligence Master's Degree
+role: Master's Degree in Computer Technology
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -36,10 +36,10 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: MEng in Artificial Intelligence
+    - course: MEng in Computer Technology
       institution: North China University of Science and Technology
       year: 2025
-    - course: BSc in Artificial Intelligence
+    - course: BSc in Computer Science and Technology
       institution: North China University of Science and Technology
       year: 2022
 
@@ -50,17 +50,17 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: 95
         icon: python
         icon_pack: fab
       - name: Data Science
         description: ''
-        percent: 100
+        percent: 80
         icon: chart-line
         icon_pack: fas
       - name: SQL
         description: ''
-        percent: 40
+        percent: 70
         icon: database
         icon_pack: fas
   - name: Hobbies
@@ -69,7 +69,7 @@ skills:
     items:
       - name: Hiking
         description: ''
-        percent: 60
+        percent: 70
         icon: person-hiking
         icon_pack: fas
       - name: Cats
