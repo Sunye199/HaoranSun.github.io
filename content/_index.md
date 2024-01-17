@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
-title: ''
-date: 2022-10-24
+title: 'HaoranSun'
+date: 2024-1-17
 type: landing
 
 sections:
