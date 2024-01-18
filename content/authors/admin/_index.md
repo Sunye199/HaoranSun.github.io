@@ -118,5 +118,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Haoran Sun received B.S degree from the North China University of Science and Technology, in 2022. She is currently pursuing the master’s degree with the North China University of Science and Technology. Her research interests include machine vision and graphic image processing.
 {style="text-align: justify;"}
