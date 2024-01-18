@@ -237,8 +237,8 @@ sections:
       text: |-
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
-      email: 924252553@qq.com
-      phone: 150 0313 1668
+      email: haoranyufei@163.com
+      phone: 155 3274 6672
       # appointment_url: 'https://calendly.com'
       address:
         street: 河北省 唐山市 曹妃甸 新城渤海大道21号
