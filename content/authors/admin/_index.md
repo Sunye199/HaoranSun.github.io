@@ -118,5 +118,5 @@ social:
 highlight_name: true
 ---
 
-Haoran Sun received B.S degree from the North China University of Science and Technology, in 2022. He is currently pursuing the master’s degree with the North China University of Science and Technology. Her research interests include machine vision and graphic image processing.
+Haoran Sun received B.S degree from the North China University of Science and Technology, in 2022. He is currently pursuing the master’s degree with the North China University of Science and Technology. His research interests include machine vision and graphic image processing.
 {style="text-align: justify;"}
